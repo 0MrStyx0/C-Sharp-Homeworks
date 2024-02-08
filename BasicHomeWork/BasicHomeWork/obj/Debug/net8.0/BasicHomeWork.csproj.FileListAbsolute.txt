@@ -1,0 +1,15 @@
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\bin\Debug\net8.0\BasicHomeWork.exe
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\bin\Debug\net8.0\BasicHomeWork.deps.json
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\bin\Debug\net8.0\BasicHomeWork.runtimeconfig.json
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\bin\Debug\net8.0\BasicHomeWork.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\bin\Debug\net8.0\BasicHomeWork.pdb
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\BasicHomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\BasicHomeWork.AssemblyInfoInputs.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\BasicHomeWork.AssemblyInfo.cs
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\BasicHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\BasicHomeWork.sourcelink.json
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\BasicHomeWork.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\refint\BasicHomeWork.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\BasicHomeWork.pdb
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\BasicHomeWork.genruntimeconfig.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\BasicHomeWork\BasicHomeWork\obj\Debug\net8.0\ref\BasicHomeWork.dll
