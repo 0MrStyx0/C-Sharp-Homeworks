@@ -1,0 +1,15 @@
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\bin\Debug\net8.0\ArrayAndString.exe
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\bin\Debug\net8.0\ArrayAndString.deps.json
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\bin\Debug\net8.0\ArrayAndString.runtimeconfig.json
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\bin\Debug\net8.0\ArrayAndString.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\bin\Debug\net8.0\ArrayAndString.pdb
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\ArrayAndString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\ArrayAndString.AssemblyInfoInputs.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\ArrayAndString.AssemblyInfo.cs
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\ArrayAndString.csproj.CoreCompileInputs.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\ArrayAndString.sourcelink.json
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\ArrayAndString.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\refint\ArrayAndString.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\ArrayAndString.pdb
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\ArrayAndString.genruntimeconfig.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\ArrayAndString\ArrayAndString\obj\Debug\net8.0\ref\ArrayAndString.dll
