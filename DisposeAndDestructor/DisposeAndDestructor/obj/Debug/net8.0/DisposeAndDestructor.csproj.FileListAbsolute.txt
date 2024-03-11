@@ -1,0 +1,15 @@
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\bin\Debug\net8.0\DisposeAndDestructor.exe
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\bin\Debug\net8.0\DisposeAndDestructor.deps.json
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\bin\Debug\net8.0\DisposeAndDestructor.runtimeconfig.json
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\bin\Debug\net8.0\DisposeAndDestructor.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\bin\Debug\net8.0\DisposeAndDestructor.pdb
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\DisposeAndDestructor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\DisposeAndDestructor.AssemblyInfoInputs.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\DisposeAndDestructor.AssemblyInfo.cs
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\DisposeAndDestructor.csproj.CoreCompileInputs.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\DisposeAndDestructor.sourcelink.json
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\DisposeAndDestructor.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\refint\DisposeAndDestructor.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\DisposeAndDestructor.pdb
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\DisposeAndDestructor.genruntimeconfig.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\DisposeAndDestructor\DisposeAndDestructor\obj\Debug\net8.0\ref\DisposeAndDestructor.dll
