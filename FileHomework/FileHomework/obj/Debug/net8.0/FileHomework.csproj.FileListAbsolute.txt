@@ -1,0 +1,15 @@
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\bin\Debug\net8.0\FileHomework.exe
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\bin\Debug\net8.0\FileHomework.deps.json
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\bin\Debug\net8.0\FileHomework.runtimeconfig.json
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\bin\Debug\net8.0\FileHomework.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\bin\Debug\net8.0\FileHomework.pdb
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\FileHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\FileHomework.AssemblyInfoInputs.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\FileHomework.AssemblyInfo.cs
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\FileHomework.csproj.CoreCompileInputs.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\FileHomework.sourcelink.json
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\FileHomework.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\refint\FileHomework.dll
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\FileHomework.pdb
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\FileHomework.genruntimeconfig.cache
+C:\Users\PK\C#\C-Sharp-Homeworks\FileHomework\FileHomework\obj\Debug\net8.0\ref\FileHomework.dll
